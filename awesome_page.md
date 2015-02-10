@@ -1,5 +1,5 @@
 `code block`
-###bold italic###
-##bold##
+*italic*
+**bold**
 [URL](http://www.github.com)
 ~~Strikethrough~~
